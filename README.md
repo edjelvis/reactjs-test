@@ -67,6 +67,11 @@
 ```
 ---
 
+### Informações adicionais:
+
+- Se eu fechar a página/app, ao voltar, deverá aparecer o último nome configurado, no topo, indo direto para a tela de busca (tela inicial).
+---
+
 
 ## Requisitos:
 - ReactJS `*`
