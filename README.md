@@ -63,7 +63,7 @@
 ** Obs: se não houver descrição, deve exibir de forma destacada uma mensagem de que não há conteúdo disponível.
 *** Obs: se houver twitter ou site próprio, ao clicar deve redirecionar para seus respectivos links em uma aba separada.
 
-****: Ao clicar nesse botão, deve ser redirecionado para a tela de "login".
+**** Obs: Ao clicar nesse botão, deve ser redirecionado para a tela de "login".
 ```
 
 
