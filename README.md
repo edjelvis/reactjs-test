@@ -15,11 +15,11 @@
 ### Tela de repositórios:
 
 - Na tela de listagem de repositórios, deverá exibir:
-  - nome do usuário *;
+  - nome do usuário `*`;
   - total repositórios encontrados;
   - listagem de repositórios:
     - nome do repositório;
-    - descrição (se houver **);
+    - descrição (se houver `**`);
     - linguagem daquele repositório
 
 - Eu consigo abrir cada repositório mostrado clicando nele, indo para o GitHub respectivo.
@@ -49,14 +49,14 @@
   - tag do usuário;
   - quantidade de seguidores;
   - quantidade de pessoa seguindo o mesmo;
-  - quantidade de repositórios *;
-  - biografica (se houver **);
-  - email (se houver **);
-  - twitter (se houver ** ***);
-  - nome da empresa (se houver **);
-  - site (se houver ** ***)
+  - quantidade de repositórios `*`;
+  - biografica (se houver `**`);
+  - email (se houver `**`);
+  - twitter (se houver `**` `***`);
+  - nome da empresa (se houver `**`);
+  - site (se houver `**` `***`)
 
-- Possuir um botão para alterar o usuário "logado" ****;
+- Possuir um botão para alterar o usuário "logado" `****`;
 
 ```
 * Obs: deve ser possível, ao clicar no total de repositório e ser redirecionado para a tela de listagem dos mesmos.
