@@ -65,11 +65,6 @@
 
 **** Obs: Ao clicar nesse botão, deve ser redirecionado para a tela de "login".
 ```
-
-
-### Informações adicionais:
-
-- Se eu fechar a página/app, ao voltar, deverá aparecer o último nome configurado, no topo, indo direto para a tela de busca (tela inicial).
 ---
 
 
